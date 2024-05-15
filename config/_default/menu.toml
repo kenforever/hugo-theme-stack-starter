@@ -10,7 +10,7 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/kenforever"
 
 [social.params]
 icon = "brand-github"
@@ -18,7 +18,31 @@ icon = "brand-github"
 [[social]]
 identifier = "twitter"
 name = "Twitter"
-url = "https://twitter.com"
+url = "https://twitter.com/kenf0rever"
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "misskey"
+name = "misskey"
+url = "https://nya.one/@kenforever"
+
+[social.params]
+icon = "brand-mastodon"
+
+[[social]]
+identifier = "website"
+name = "website"
+url = "https://kenforever.eth.limo"
+
+[social.params]
+icon = "browser"
+
+[[social]]
+identifier = "email"
+name = "email"
+url = "mailto:ken@kenforever.cc"
+
+[social.params]
+icon = "mail"

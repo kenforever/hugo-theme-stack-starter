@@ -5,16 +5,15 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
+since = 2024
 customText = ""
 
 [dateFormat]
 published = "Jan 02, 2006"
-lastUpdated = "Jan 02, 2006 15:04 MST"
+lastUpdated = "Jan 02, 2006 15:04 UTC+8"
 
-[sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+[sidebar]   
+subtitle = "Blockchain | EVM | DevOps | Python | Linux | Photograph | +853 & +886"
 
 [sidebar.avatar]
 enabled = true
@@ -77,7 +76,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "twikoo"
 
 [comments.disqusjs]
 shortname = ""
@@ -117,10 +116,10 @@ placeholder = ""
 admin = "Admin"
 
 [comments.twikoo]
-envId = ""
+envId = "https://blog-twikoo.kenforever.cc/"
 region = ""
 path = ""
-lang = ""
+lang = "zh-hk"
 
 [comments.cactus]
 defaultHomeserverUrl = "https://matrix.cactus.chat:8448"
